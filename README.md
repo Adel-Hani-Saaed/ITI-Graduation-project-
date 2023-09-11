@@ -6,7 +6,6 @@ SmartDrive is a project that aims to develop a smart driving system. It includes
 
 The system diagram below illustrates the components and their interactions in the SmartDrive system.
 
-![System Diagram]([https://your-image-url.type](https://github.com/Adel-Hani-Saaed/ITI-Graduation-project-/blob/main/Image/diagram%20Modes.png))
 <img src="https://github.com/Adel-Hani-Saaed/ITI-Graduation-project-/blob/main/Image/diagram%20Modes.png" width="500" height="500">
 
 
