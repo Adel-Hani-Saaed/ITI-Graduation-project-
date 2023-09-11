@@ -6,7 +6,7 @@ SmartDrive is a project that aims to develop a smart driving system. It includes
 
 The system diagram below illustrates the components and their interactions in the SmartDrive system.
 
-![System Diagram](images/system_diagram.png)
+![System Diagram](Image/diagram Modes.png)
 
 ## State Machine
 
