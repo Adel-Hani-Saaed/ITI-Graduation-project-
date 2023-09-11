@@ -6,14 +6,13 @@ SmartDrive is a project that aims to develop a smart driving system. It includes
 
 The system diagram below illustrates the components and their interactions in the SmartDrive system.
 
-<img src="https://github.com/Adel-Hani-Saaed/ITI-Graduation-project-/blob/main/Image/diagram%20Modes.png" width="500" height="500">
 
 
 ## State Machine
 
 The state machine represents the behavior of the SmartDrive system. It describes the different states and transitions of the system during operation.
 
-![State Machine](Image/diagram_Modes.png)
+<img src="https://github.com/Adel-Hani-Saaed/ITI-Graduation-project-/blob/main/Image/diagram%20Modes.png" width="500" height="500">
 
 The SmartDrive system operates based on a state machine with the following states:
 
