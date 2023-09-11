@@ -1,0 +1,17 @@
+CLCD_program.c:42:6:CLCD_voidSendCommand	16	static
+CLCD_program.c:88:6:CLCD_voidSendData	16	static
+CLCD_program.c:141:6:CLCD_voidSendCharPosition	16	static
+CLCD_program.c:151:6:CLCD_voidInit	8	static
+CLCD_program.c:234:6:CLCD_voidSendString	24	static
+CLCD_program.c:245:6:CLCD_voidSendStringIndex_16	24	static
+CLCD_program.c:263:6:CLCD_voidSendStringPosition	16	static
+CLCD_program.c:271:6:CLCD_voidGoToXY	24	static
+CLCD_program.c:292:6:CLCD_voidSpecialCharacter	24	static
+CLCD_program.c:317:6:CLCD_voidPrintINTNumber	64	static
+CLCD_program.c:338:6:CLCD_voidSendINTNumberPosition	16	static
+CLCD_program.c:347:6:CLCD_voidClearLCD	8	static
+CLCD_program.c:356:6:CLCD_voidClearLCDPosition	16	static
+CLCD_program.c:365:6:CLCD_voidCursorOff	8	static
+CLCD_program.c:371:6:CLCD_voidCursorOn	8	static
+CLCD_program.c:378:6:CLCD_voidCursorBlink	8	static
+CLCD_program.c:385:6:CLCD_voidSendPuls	8	static

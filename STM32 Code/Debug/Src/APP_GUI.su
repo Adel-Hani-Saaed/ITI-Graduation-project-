@@ -1,0 +1,2 @@
+APP_GUI.c:24:6:GUI_voidInit	8	static
+APP_GUI.c:38:6:GUI_voidSendSpeedDistance	24	static

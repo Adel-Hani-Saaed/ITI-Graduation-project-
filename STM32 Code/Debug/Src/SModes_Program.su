@@ -1,0 +1,3 @@
+SModes_Program.c:33:9:SModes_UDIdleMode	16	static
+SModes_Program.c:115:9:SModes_UDMovingHighSpeed_Mode	16	static
+SModes_Program.c:230:9:SModes_UDMovingLowSpeed_Mode	16	static

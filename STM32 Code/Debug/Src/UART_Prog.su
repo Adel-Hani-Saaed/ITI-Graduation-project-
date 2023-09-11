@@ -1,0 +1,5 @@
+UART_Prog.c:29:7:UART_voidInit	4	static
+UART_Prog.c:46:7:UART_voidTransmit	24	static
+UART_Prog.c:55:5:UART_voidRecieve	4	static
+UART_Prog.c:66:6:UART_voidReciveAsyn	16	static
+UART_Prog.c:84:6:USART1_IRQHandler	8	static

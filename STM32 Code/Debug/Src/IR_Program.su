@@ -1,0 +1,3 @@
+IR_Program.c:50:6:IR_Init	8	static
+IR_Program.c:60:4:IR_u8Read_RightIR	8	static
+IR_Program.c:69:4:IR_u8Read_LeftIR	8	static
