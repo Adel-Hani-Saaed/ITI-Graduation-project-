@@ -12,7 +12,7 @@ The system diagram below illustrates the components and their interactions in th
 
 The state machine represents the behavior of the SmartDrive system. It describes the different states and transitions of the system during operation.
 
-![State Machine](Image/diagram Modes.png)
+![State Machine](Image/diagram_Modes.png)
 
 The SmartDrive system operates based on a state machine with the following states:
 
