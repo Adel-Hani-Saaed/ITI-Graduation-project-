@@ -26,7 +26,35 @@ To provide a user-friendly interface for our Smart Drive Vehicle, we are develop
 - Intuitive controls for vehicle navigation
 - Real-time data display, including distance and speed readings
 - System status monitoring
-- Error and warning notifications
+
+
+# State Machine
+
+The Smart Drive vehicle operates using a state machine to manage its behavior and transitions during operation. This document provides an overview of the state machine, the different states, and the features associated with each state.
+
+![State Machine](Images/diagram Modes.png)
+
+## States
+
+### 1. Idle Mode
+In this mode, the SmartDrive vehicle is at rest and not actively engaged in any specific driving tasks. It is waiting for user input or a trigger to transition to another mode.
+
+
+
+### 2. Low-Speed Mode
+Low-speed mode represents the state in which the vehicle is traveling at lower speeds, typically within urban or congested areas. It includes the following features:
+
+
+### 3. High-Speed Mode
+High-speed mode represents the state in which the vehicle is traveling at higher speeds, typically on highways or open roads. It includes the following features:
+
+#### Features:
+1. ACC (Adaptive Cruise Control): Similar to Low-Speed Mode, the vehicle can automatically adjust its speed to maintain a safe following distance from the vehicle ahead.
+2. AEB (Automated Emergency Braking): The system can automatically apply the brakes in emergency situations to prevent or mitigate collisions.
+3. LKS (Lane Keeping Support): The system assists the driver in keeping the vehicle within its lane, providing steering support if necessary.
+
+## Acknowledgments
+I would like to acknowledge the entire team and the open-source community for making this project possible.
 
 
 ## Presentation
