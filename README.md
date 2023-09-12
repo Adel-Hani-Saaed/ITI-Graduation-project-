@@ -7,7 +7,7 @@ This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE.m
 Welcome to the Smart Drive Vehicle project's GitHub repository! Here, we'll provide you with an overview of our exciting endeavor to create an advanced smart driving system. Below, you'll find key components and details about our project.
 
 <div align="center">
-  <img src="Image/Project Features .png" alt=" Project Features " width="500">
+  <img src="Image/Project Features .png" alt=" Project Features " width="650">
 </div>
 
 ## Firmware Development (STM32 Code)
@@ -55,10 +55,10 @@ Low-speed mode represents the state in which the vehicle is traveling at lower s
 High-speed mode represents the state in which the vehicle is traveling at higher speeds, typically on highways or open roads. It includes the following features:
 
 #### Features:
--ACC (Adaptive Cruise Control): Similar to Low-Speed Mode, the vehicle can automatically adjust its speed to maintain a safe following distance from the vehicle ahead.
--AEB (Automated Emergency Braking): The system can automatically apply the brakes in emergency situations to prevent or mitigate collisions.
--LKS (Lane Keeping Support): The system assists the driver in keeping the vehicle within its lane, providing steering support if necessary.
--LDW (Lane Departure Warning): The LDW feature provides a warning to the driver when the vehicle drifts out of its lane without signaling.
+- ACC (Adaptive Cruise Control): Similar to Low-Speed Mode, the vehicle can automatically adjust its speed to maintain a safe following distance from the vehicle ahead.
+- AEB (Automated Emergency Braking): The system can automatically apply the brakes in emergency situations to prevent or mitigate collisions.
+- LKS (Lane Keeping Support): The system assists the driver in keeping the vehicle within its lane, providing steering support if necessary.
+- LDW (Lane Departure Warning): The LDW feature provides a warning to the driver when the vehicle drifts out of its lane without signaling.
 
 ## Presentation
 
