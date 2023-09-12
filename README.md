@@ -16,6 +16,7 @@ At the heart of the Smart Drive Vehicle project is the development of advanced f
 - 
 ## GUI using Raspberry Pi
 ![GUI using Raspberry Pi](Image/GUI.png)
+<img src="Image/GUI.png"  width="300" height="200">
 
 To provide a user-friendly interface for our Smart Drive Vehicle, we are developing a Graphical User Interface (GUI) using a Raspberry Pi. This GUI will serve as the primary means of interacting with and controlling the vehicle's functions. Key features of the GUI will include:
 
