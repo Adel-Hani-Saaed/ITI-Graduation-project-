@@ -8,7 +8,7 @@ Welcome to the Smart Drive Vehicle project's GitHub repository! Here, we'll prov
 
 ## Firmware Development (STM32 Code)
 <div align="center">
-  <img src="Image/diagram Modes.png" alt="Diagram Modes" width="400">
+  <img src="Image/Layers Architecture .png" alt="Layers Architecture Diagram " width="400">
 </div>
 At the heart of the Smart Drive Vehicle project is the development of advanced firmware. We are actively working on creating firmware that will power a wide range of features and peripherals within our smart driving system. Our STM32 code is at the core of this development, and it will enable various functionalities, including:
 
