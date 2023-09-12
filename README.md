@@ -6,6 +6,10 @@ This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE.m
 
 Welcome to the Smart Drive Vehicle project's GitHub repository! Here, we'll provide you with an overview of our exciting endeavor to create an advanced smart driving system. Below, you'll find key components and details about our project.
 
+<div align="center">
+  <img src="Image/Project Features .png" alt=" Project Features " width="500">
+</div>
+
 ## Firmware Development (STM32 Code)
 <div align="center">
   <img src="Image/Layers Architecture .png" alt="Layers Architecture Diagram " width="400">
@@ -32,7 +36,9 @@ To provide a user-friendly interface for our Smart Drive Vehicle, we are develop
 
 The Smart Drive vehicle operates using a state machine to manage its behavior and transitions during operation. This document provides an overview of the state machine, the different states, and the features associated with each state.
 
-![State Machine](Image/diagram Modes.png)
+<div align="center">
+  <img src="Image/diagram Modes.png" alt=" State Machine Diagram " width="400">
+</div>
 
 ## States
 
