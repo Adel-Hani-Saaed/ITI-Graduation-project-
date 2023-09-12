@@ -33,7 +33,7 @@ In addition to the technical aspects of our project, we are committed to effecti
 
 - **Slides:** We'll provide detailed slides outlining the project's goals, methodologies, and results. These slides will be helpful for understanding our project's high-level overview and its significance.
 
-- **Videos:** We plan to create informative videos that showcase the features and capabilities of our Smart Drive Vehicle. These videos will serve as visual aids for better comprehension and engagement.[![Watch the video](Image/Simulation Project .png)](https://drive.google.com/file/d/1Q1FdiaNc3NXPRbiduHG6HBcWxxKw4brT/preview)
+- **Videos:** We plan to create informative videos that showcase the features and capabilities of our Smart Drive Vehicle. These videos will serve as visual aids for better comprehension and engagement.[![Watch the video](https://drive.google.com/file/d/1Q1FdiaNc3NXPRbiduHG6HBcWxxKw4brT/preview)
 
 
 
