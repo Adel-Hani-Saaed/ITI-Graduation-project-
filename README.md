@@ -40,7 +40,9 @@ In addition to the technical aspects of our project, we are committed to effecti
 A picture is worth a thousand words. We will include images that visually represent our project.Our images will provide a visual context for our project, making it easier to understand and appreciate.
 
 ## Proteus Simulation
-
+<div align="center">
+  <img src="Image/Simulation Project .png" alt="Proteus Simulation" width="650">
+</div>
 To ensure the effectiveness and safety of our smart driving system, we utilize Proteus Simulation. Proteus allows us to simulate various scenarios and test the system's functionality without the need for physical implementation. In this section, we will:
 
 - Describe the simulations we have conducted
