@@ -32,7 +32,7 @@ To provide a user-friendly interface for our Smart Drive Vehicle, we are develop
 
 The Smart Drive vehicle operates using a state machine to manage its behavior and transitions during operation. This document provides an overview of the state machine, the different states, and the features associated with each state.
 
-![State Machine](Images/diagram Modes.png)
+![State Machine](Image/diagram Modes.png)
 
 ## States
 
@@ -49,13 +49,10 @@ Low-speed mode represents the state in which the vehicle is traveling at lower s
 High-speed mode represents the state in which the vehicle is traveling at higher speeds, typically on highways or open roads. It includes the following features:
 
 #### Features:
-1. ACC (Adaptive Cruise Control): Similar to Low-Speed Mode, the vehicle can automatically adjust its speed to maintain a safe following distance from the vehicle ahead.
-2. AEB (Automated Emergency Braking): The system can automatically apply the brakes in emergency situations to prevent or mitigate collisions.
-3. LKS (Lane Keeping Support): The system assists the driver in keeping the vehicle within its lane, providing steering support if necessary.
-
-## Acknowledgments
-I would like to acknowledge the entire team and the open-source community for making this project possible.
-
+-ACC (Adaptive Cruise Control): Similar to Low-Speed Mode, the vehicle can automatically adjust its speed to maintain a safe following distance from the vehicle ahead.
+-AEB (Automated Emergency Braking): The system can automatically apply the brakes in emergency situations to prevent or mitigate collisions.
+-LKS (Lane Keeping Support): The system assists the driver in keeping the vehicle within its lane, providing steering support if necessary.
+-LDW (Lane Departure Warning): The LDW feature provides a warning to the driver when the vehicle drifts out of its lane without signaling.
 
 ## Presentation
 
@@ -86,7 +83,7 @@ By using Proteus Simulation, we can fine-tune our system before deploying it in 
 
 ## Demo
 
-To witness Smart Drive vehicle in action, you can run the provided example code by following these straightforward steps:
+To witness the Smart Drive vehicle in action, you can run the provided example code by following these straightforward steps:
 
 1. **Clone the Repository**:
    ``` shell
@@ -107,13 +104,5 @@ To witness Smart Drive vehicle in action, you can run the provided example code 
 These steps will guide you through the process of setting up and running the demo, allowing you to explore the Smart Drive vehicle's features and functionality.
 
 
-
-
-
-
-
-
-
-
-
-
+## Acknowledgments
+I would like to acknowledge the entire team and the open-source community for making this project possible.
