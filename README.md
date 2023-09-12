@@ -38,6 +38,8 @@ In addition to the technical aspects of our project, we are committed to effecti
   <img src="[Image/GUI.png](https://drive.google.com/file/d/1Q1FdiaNc3NXPRbiduHG6HBcWxxKw4brT/view?usp=sharing)" alt=Videos" width="650">
 </div>
 
+[![Smart Drive Vehicle Video](images/video_thumbnail.png)](https://www.youtube.com/watch?v=your_video_id)
+
 ## Image
 
 A picture is worth a thousand words. We will include images that visually represent our project.Our images will provide a visual context for our project, making it easier to understand and appreciate.
