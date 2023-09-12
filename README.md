@@ -58,7 +58,7 @@ By using Proteus Simulation, we can fine-tune our system before deploying it in 
 
 ## Demo
 
-To witness SmartDrive in action, you can run the provided example code by following these straightforward steps:
+To witness Smart Drive vehicle in action, you can run the provided example code by following these straightforward steps:
 
 1. **Clone the Repository**:
    ``` shell
@@ -66,7 +66,7 @@ To witness SmartDrive in action, you can run the provided example code by follow
    ```
 
 2. **Build the Firmware**:
-   ```shell
+   ``` shell
    make firmware
    ```
 
@@ -74,9 +74,9 @@ To witness SmartDrive in action, you can run the provided example code by follow
    Connect the Smart Drive vehicle hardware to your computer.
 
 4. **Run the Demo Application**:
-   Execute the demo application to experience the capabilities of SmartDrive.
+   Execute the demo application to experience the capabilities of the Smart Drive vehicle.
 
-These steps will guide you through the process of setting up and running the demo, allowing you to explore SmartDrive's features and functionality.
+These steps will guide you through the process of setting up and running the demo, allowing you to explore the Smart Drive vehicle's features and functionality.
 
 
 
