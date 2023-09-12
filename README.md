@@ -45,14 +45,23 @@ The Smart Drive vehicle operates using a state machine to manage its behavior an
 ### 1. Idle Mode
 In this mode, the SmartDrive vehicle is at rest and not actively engaged in any specific driving tasks. It is waiting for user input or a trigger to transition to another mode.
 
-
+<div align="center">
+  <img src="Image/Idel Mode.png" alt="Idel Mode Diagram" width="650">
+</div>
 
 ### 2. Low-Speed Mode
-Low-speed mode represents the state in which the vehicle is traveling at lower speeds, typically within urban or congested areas. It includes the following features:
+Low-speed mode represents the state in which the vehicle is traveling at lower speeds, typically within urban or congested areas. It includes the following 
 
+<div align="center">
+  <img src="Image/Low Speed Mode.png" alt="Low Speed Mode Diagram" width="650">
+</div>
 
 ### 3. High-Speed Mode
 High-speed mode represents the state in which the vehicle is traveling at higher speeds, typically on highways or open roads. It includes the following features:
+
+<div align="center">
+  <img src="Image/High Speed Mode.png" alt="High Speed Mode Diagram" width="650">
+</div>
 
 #### Features:
 - ACC (Adaptive Cruise Control): Similar to Low-Speed Mode, the vehicle can automatically adjust its speed to maintain a safe following distance from the vehicle ahead.
