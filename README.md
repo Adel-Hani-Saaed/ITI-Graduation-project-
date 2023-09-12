@@ -57,7 +57,29 @@ By using Proteus Simulation, we can fine-tune our system before deploying it in 
 
 
 
+Your "Demo" section provides clear instructions on how to see SmartDrive in action. Here's a slight refinement for better readability:
 
+## Demo
+
+To witness SmartDrive in action, you can run the provided example code by following these straightforward steps:
+
+1. **Clone the Repository**:
+   ``` shell
+   git clone https://github.com/Adel-Hani-Saaed/ITI-Graduation-project-
+   ```
+
+2. **Build the Firmware**:
+   ```shell
+   make firmware
+   ```
+
+3. **Hardware Connection**:
+   Connect the Smart Drive vehicle hardware to your computer.
+
+4. **Run the Demo Application**:
+   Execute the demo application to experience the capabilities of SmartDrive.
+
+These steps will guide you through the process of setting up and running the demo, allowing you to explore SmartDrive's features and functionality.
 
 
 
