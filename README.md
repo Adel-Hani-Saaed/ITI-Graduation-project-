@@ -13,11 +13,7 @@ At the heart of the Smart Drive Vehicle project is the development of advanced f
 - Real-time vehicle control
 - Sensor data processing
 - Communication with external devices
-- Safety features
-- And more!
-
-We believe that robust firmware is essential for creating a safe and efficient smart driving experience.
-
+- 
 ## GUI using Raspberry Pi
 ![GUI using Raspberry Pi](Image/GUI.png)
 
