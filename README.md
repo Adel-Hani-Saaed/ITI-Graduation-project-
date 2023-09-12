@@ -35,10 +35,9 @@ In addition to the technical aspects of our project, we are committed to effecti
 
 - **Videos:** We plan to create informative videos that showcase the features and capabilities of our Smart Drive Vehicle. These videos will serve as visual aids for better comprehension and engagement.
 <div align="center">
-  <img src="[Image/GUI.png](https://drive.google.com/file/d/1Q1FdiaNc3NXPRbiduHG6HBcWxxKw4brT/view?usp=sharing)" alt=Videos" width="650">
+  <img src="https://drive.google.com/file/d/1Q1FdiaNc3NXPRbiduHG6HBcWxxKw4brT/view?usp=sharing" alt=Videos" width="650">
 </div>
 
-[![Smart Drive Vehicle Video](images/video_thumbnail.png)](https://www.youtube.com/watch?v=your_video_id)
 
 ## Image
 
