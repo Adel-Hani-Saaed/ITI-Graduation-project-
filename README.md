@@ -56,9 +56,6 @@ To ensure the effectiveness and safety of our smart driving system, we utilize P
 By using Proteus Simulation, we can fine-tune our system before deploying it in real-world scenarios, enhancing the overall reliability and performance.
 
 
-
-Your "Demo" section provides clear instructions on how to see SmartDrive in action. Here's a slight refinement for better readability:
-
 ## Demo
 
 To witness SmartDrive in action, you can run the provided example code by following these straightforward steps:
