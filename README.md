@@ -7,7 +7,9 @@ This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE.m
 Welcome to the Smart Drive Vehicle project's GitHub repository! Here, we'll provide you with an overview of our exciting endeavor to create an advanced smart driving system. Below, you'll find key components and details about our project.
 
 ## Firmware Development (STM32 Code)
-
+<div align="center">
+  <img src="Image/diagram Modes.png" alt="Diagram Modes" width="650">
+</div>
 At the heart of the Smart Drive Vehicle project is the development of advanced firmware. We are actively working on creating firmware that will power a wide range of features and peripherals within our smart driving system. Our STM32 code is at the core of this development, and it will enable various functionalities, including:
 
 - Real-time vehicle control
@@ -40,7 +42,7 @@ In addition to the technical aspects of our project, we are committed to effecti
 
 ## Image
 
-A picture is worth a thousand words. We will include images that visually represent our project.Our images will provide a visual context for our project, making it easier to understand and appreciate.
+A picture is worth a thousand words. We will include images that visually represent our project. Our images will provide a visual context for our project, making it easier to understand and appreciate.
 
 ## Proteus Simulation
 <div align="center">
